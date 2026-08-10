@@ -1,2 +1,2 @@
-# ProjSistemasDistribuidos
+# Projeto - Sistemas Distribuídos
 Projeto do 7º ciclo da disciplina Sistemas Distribuídos
